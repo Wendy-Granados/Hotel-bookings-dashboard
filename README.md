@@ -147,19 +147,20 @@ COUNT(hotel_bookings[country])
 
 ## 8. Preguntas que responde el dashboard
 
-El dashboard está diseñado para responder preguntas relacionadas con el comportamiento de las reservas:
+El dashboard permite analizar el comportamiento de las reservas mediante las siguientes preguntas:
 
-¿Cuántas reservas fueron canceladas?
-¿Cuál es el precio promedio de habitación por noche?
-¿De qué países provienen los huéspedes?
-¿Cómo cambia el precio por noche entre los diferentes años?
-¿Cómo varía el tiempo de estancia?
-¿Qué meses presentan mayor número de cancelaciones?
-¿Cómo se distribuyen las reservas entre los segmentos de mercado?
-¿Qué meses concentran un mayor número de reservas?
-¿Cómo se comportan las reservas de acuerdo con su estatus?
+- ¿Cuántas reservas fueron canceladas?
+- ¿Cuál es el precio promedio de habitación por noche?
+- ¿De qué países provienen los huéspedes?
+- ¿Cómo cambia el precio por noche entre los diferentes años?
+- ¿Cómo varía el tiempo de estancia?
+- ¿Qué meses presentan mayor número de cancelaciones?
+- ¿Cómo se distribuyen las reservas por segmento de mercado?
+- ¿Qué meses concentran un mayor número de reservas?
+- ¿Cómo se distribuyen las reservas según su estatus?
 
 ## 9. Filtros
+
 ### 9.1 Año
 
 Permite seleccionar el año de llegada para analizar la información correspondiente al periodo seleccionado.
@@ -169,48 +170,51 @@ Permite seleccionar el año de llegada para analizar la información correspondi
 Permite filtrar las reservas de acuerdo con su estado.
 
 ## 10. Visualizaciones
+
 ### 10.1 Tarjetas KPI
-Número de reservas canceladas.
-Precio promedio de habitación por noche.
+
+- Número de reservas canceladas.
+- Precio promedio de habitación por noche.
+
 ### 10.2 ¿De dónde vienen los huéspedes?
 
-Tipo: Gráfico de barras agrupadas.
+**Tipo:** Gráfico de barras agrupadas.
 
-Permite visualizar la procedencia de los huéspedes de acuerdo con el país registrado.
+Muestra la procedencia de los huéspedes según el país registrado.
 
 ### 10.3 Comparación de precio por noche anual
 
-Tipo: Embudo.
+**Tipo:** Embudo.
 
-Permite comparar el comportamiento del precio por noche entre los diferentes años disponibles.
+Permite comparar el precio por noche entre los diferentes años disponibles.
 
-### 10.4 Tiempo de estancia por noche
+### 10.4 Tiempo de estancia
 
-Tipo: Gráfico de líneas.
+**Tipo:** Gráfico de líneas.
 
-Permite visualizar la evolución del tiempo de estancia de acuerdo con el periodo analizado.
+Permite visualizar la variación del tiempo de estancia durante el periodo analizado.
 
 ### 10.5 Comportamiento mensual
 
-Tipo: Gráfico combinado de columnas agrupadas y líneas.
+**Tipo:** Gráfico combinado de columnas agrupadas y líneas.
 
-Presenta el comportamiento de las reservas mes a mes para facilitar la comparación entre periodos.
+Muestra el comportamiento de las reservas mes a mes para facilitar la comparación entre periodos.
 
 ### 10.6 Meses con mayor número de cancelaciones
 
-Tipo: Gráfico combinado de columnas agrupadas y líneas.
+**Tipo:** Gráfico combinado de columnas agrupadas y líneas.
 
 Permite comparar el número de cancelaciones entre los diferentes meses.
 
 ### 10.7 Reservas por segmento de mercado
 
-Tipo: Matriz.
+**Tipo:** Matriz.
 
-Permite consultar la distribución de las reservas de acuerdo con el segmento de mercado.
+Muestra la distribución de las reservas según el segmento de mercado.
 
 ### 10.8 Meses más ocupados
 
-Tipo: Gráfico de barras 100 % apiladas.
+**Tipo:** Gráfico de barras 100 % apiladas.
 
 Permite comparar la participación de las reservas entre los diferentes meses.
 
@@ -218,13 +222,12 @@ Permite comparar la participación de las reservas entre los diferentes meses.
 
 El dashboard permite interactuar con la información mediante:
 
-Filtro por año.
-Filtro por estatus de reservación.
-Selección de elementos dentro de las visualizaciones.
-Actualización dinámica de los indicadores y gráficos relacionados.
+- Filtro por año.
+- Filtro por estatus de reservación.
+- Selección de elementos dentro de las visualizaciones.
+- Actualización dinámica de los indicadores y gráficos relacionados.
 
 ## 12. Resultado
-<img width="891" height="486" alt="image" src="https://github.com/user-attachments/assets/ac4c9f67-86d5-4550-8ec3-83fc92917c76" />
 
-
+![Dashboard Hotel Bookings](https://github.com/user-attachments/assets/ac4c9f67-86d5-4550-8ec3-83fc92917c76)
 Dashboard interactivo desarrollado en Power BI para practicar el proceso de análisis de datos, desde la preparación de la información hasta la construcción de indicadores y visualizaciones.
