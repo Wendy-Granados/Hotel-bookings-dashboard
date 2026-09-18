@@ -141,7 +141,6 @@ Las medidas utilizadas en el dashboard se documentan de forma individual en esta
 
 ### 7.1 Número de clientes
 
-```DAX
 Número de clientes =
 COUNT(hotel_bookings[country])
 
@@ -230,4 +229,4 @@ El dashboard permite interactuar con la información mediante:
 ## 12. Resultado
 
 ![Dashboard Hotel Bookings](https://github.com/user-attachments/assets/ac4c9f67-86d5-4550-8ec3-83fc92917c76)
-Dashboard interactivo desarrollado en Power BI para practicar el proceso de análisis de datos, desde la preparación de la información hasta la construcción de indicadores y visualizaciones.
+
